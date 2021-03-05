@@ -2,7 +2,7 @@
 tags: false
 layout: collection
 title: User research
-description: A tool for support agents to manage the service
+description: A history of past user research
 pagination:
   data: collections.user-research
   reverse: true

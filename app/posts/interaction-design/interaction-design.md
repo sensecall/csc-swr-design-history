@@ -2,7 +2,7 @@
 tags: false
 layout: collection
 title: Interaction design
-description: A tool for support agents to manage the service
+description: Information about prototypes for the Social worker recording project
 pagination:
   data: collections.interaction-design
   reverse: true
