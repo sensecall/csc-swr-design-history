@@ -1,10 +1,10 @@
 ---
 title: Exploring ideas for other tools
 description: 
-date: 2021-01-25
+date: 2021-02-03
 ---
 
-Explorated some ideas for other tools that social workers might find useful, based on findings from past research and input from other members of the team.
+Explored some ideas for other tools that social workers might find useful, based on findings from past research and input from other members of the team.
 
 ### Ideas:
 - 
