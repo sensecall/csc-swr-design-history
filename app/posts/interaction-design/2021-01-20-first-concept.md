@@ -14,6 +14,14 @@ This was put together quickly and used as a prompt for user research and to demo
 - Assessment notes main page
 - Example page for creating a written note
 
+{% from "figure/macro.njk" import appFigure with context %}
+
+{{ appFigure({
+	image: {
+    file: "../SW recording notes.jpg"
+  }
+}) }}
+
 ### Prototype link:
 <a href="https://csc-swr-ur-prototype.herokuapp.com/notes-tool-1-0/" target="_blank">https://csc-swr-ur-prototype.herokuapp.com/notes-tool-1-0/</a> (link opens in new tab)
 

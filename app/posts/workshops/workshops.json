@@ -1,0 +1,6 @@
+{
+  "tags": ["workshops"],
+  "eleventyNavigation": {
+    "parent": "Workshops"
+  }
+}

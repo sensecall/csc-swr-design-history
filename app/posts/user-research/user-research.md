@@ -2,7 +2,7 @@
 tags: false
 layout: collection
 title: User research
-description: A history of past user research
+description: A history of past user research and other related insights
 pagination:
   data: collections.user-research
   reverse: true

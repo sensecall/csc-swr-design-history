@@ -2,7 +2,7 @@
 tags: false
 layout: collection
 title: Interaction design
-description: Information about prototypes for the Social worker recording project
+description: Prototypes for the Social worker recording project
 pagination:
   data: collections.interaction-design
   reverse: true
