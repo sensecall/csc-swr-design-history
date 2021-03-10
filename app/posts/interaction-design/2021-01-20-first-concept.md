@@ -1,5 +1,5 @@
 ---
-title: An early concept
+title: First design concept
 description: Initial sketch for user research
 date: 2021-01-20
 ---
